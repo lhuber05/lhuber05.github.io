@@ -43,13 +43,13 @@ repository: 'lhuber05/github.io' # change this to your repository name
 #---------------------
 
 # Title of your website
-title: "Revelation in Color"
+title: "Apocalypse Matters"
 
 # Subtitle of your website. Leave blank if you want to.
 subtitle: ""
 
 # A longer description of your site (max 150 words). Helps search engines find you.
-description: "A digital image collection related to the world of the Book of Revelation and its afterlives."
+description: "Resources for the study of Revelation, including its historical context and afterlives."
 
 # These credits show up in the includes/_footer.html
 # Main author of the website.
@@ -199,4 +199,3 @@ sass:
 
 plugins:
   - jekyll-seo-tag
-  
