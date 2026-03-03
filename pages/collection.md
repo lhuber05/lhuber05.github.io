@@ -1,5 +1,5 @@
 ---
-title: Our Collection
+title: Ancient Context
 layout: collection
 permalink: /collection
 ---
